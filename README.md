@@ -1,2 +1,4 @@
 # Tareas-estructuras-de-datos
 BST: Solo tuve error en el bst porque intente utilizar std::function pero me falto incluir la liberia y ademas no es compatible con mi verision de C++ por lo que cambie la implementacion guiandome del ejercicio realizado en clase y en lugar de usar un objeto invocable auxiliar dentro de BST::visit() para definir y ejecutar la lógica de un recorrido específico (como postorder), ahora la recursión se maneja directamente con un método recursivo de la clase Node<T>.
+
+Graph: Me equivoque en el nombre, lo puse en español y estaba declarado en inglés :(.
